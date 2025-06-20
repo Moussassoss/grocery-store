@@ -26,8 +26,13 @@ To get started with the template:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/organic-grocery-store-template.git
-   cd organic-grocery-store-template
+   git clone https://github.com/Moussassoss/grocery-store.git
+   ```
+
+2. **Change Directory**
+ ```bash
+cd grocery-store
+```
 
 2. **Open index.html in your browser**
 
