@@ -18,7 +18,7 @@ Whether you're launching a new organic store or upgrading an existing one, this 
 ## 🧪 Demo
 
 👉 **[View Live Demo](https://moussassoss.github.io/grocery-store/)**  
-*(Replace with your actual demo URL)*
+
 
 ## 🚀 Getting Started
 
