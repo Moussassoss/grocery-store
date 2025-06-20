@@ -25,10 +25,9 @@ Whether you're launching a new organic store or upgrading an existing one, this 
 To get started with the template:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Moussassoss/grocery-store.git
-   ```
-
+```bash
+git clone https://github.com/Moussassoss/grocery-store.git
+```
 2. **Change Directory**
  ```bash
 cd grocery-store
