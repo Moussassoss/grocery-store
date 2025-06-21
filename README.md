@@ -28,10 +28,6 @@ To get started with the template:
 ```bash
 git clone https://github.com/Moussassoss/grocery-store.git
 ```
-2. **Change Directory**
- ```bash
-cd grocery-store
-```
 
 2. **Open index.html in your browser**
 
