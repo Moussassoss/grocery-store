@@ -1,6 +1,6 @@
 # 🛒 Organic Grocery Store Template
 
-Welcome to the **Organic Grocery Store Template** – a modern, responsive, and fully customizable website template designed specifically for organic and natural grocery stores, farmers' markets, or eco-conscious food retailers.
+Welcome to the **Organic Grocery Store Template** a modern, responsive, and fully customizable website template designed specifically for organic and natural grocery stores, farmers' markets, or eco-conscious food retailers.
 
 Whether you're launching a new organic store or upgrading an existing one, this template offers a clean design, user-friendly navigation, and all the features you need to create a beautiful online presence.
 
